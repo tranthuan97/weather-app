@@ -6,6 +6,7 @@ import App from './App';
 import { BrowserRouter } from 'react-router-dom';
 import reportWebVitals from './reportWebVitals';
 import './index.css';
+import 'antd/dist/antd.css';
 
 const container = document.getElementById('root')!;
 const root = createRoot(container);

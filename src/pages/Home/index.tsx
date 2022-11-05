@@ -1,8 +1,9 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 
-const Home = () => {
-  return <div>home pages</div>;
+const Home: React.FC = () => {
+  return <div>
+   
+  </div>;
 };
 
 Home.propTypes = {};
