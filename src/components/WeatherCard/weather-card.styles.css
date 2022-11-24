@@ -1,0 +1,11 @@
+.weather-card-container {
+  background-image: url('https://chakra-weather-app.vercel.app/cb0cd74954b3cdaa573d.jpg');
+  background-size: cover;
+  background-blend-mode: overlay;
+  background-position: center;
+  background-color: rgba(0, 0, 0, 0.35);
+}
+
+.weather-card-container div {
+  color: white;
+}

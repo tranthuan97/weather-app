@@ -1,0 +1,20 @@
+.banner-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 400px;
+  background-image: url('https://chakra-weather-app.vercel.app/527ab2e3fa67719c6918.jpg');
+  background-size: cover;
+  background-blend-mode: overlay;
+  background-position: center;
+  background-color: rgba(0, 0, 0, 0.64);
+}
+
+.banner-container h1 {
+  color: white;
+}
+
+.banner-container h2 {
+  color: white;
+}
